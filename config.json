@@ -1,0 +1,7 @@
+{
+  "prefix": "r!",  
+  "activity": {
+    "streaming": false,
+    "game": "!help for commands"
+  }
+}
